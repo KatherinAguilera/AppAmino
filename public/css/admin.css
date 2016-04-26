@@ -11,6 +11,11 @@ body {
 #wrapper {
     width: 100%;
 }
+img:hover
+{
+    transform : scale(1.5);
+    transition-duration: 3s, 5s, 2s, 1s;
+}
 
 #page-wrapper {
     padding: 0 15px;
@@ -104,6 +109,9 @@ body {
 
 .sidebar ul li {
     border-bottom: 1px solid #e7e7e7;
+    color: #3DC182;
+    font-size: 14px;
+    font-weight: bold;
 }
 
 .sidebar ul li a.active {
@@ -181,6 +189,10 @@ body {
 
 .btn-danger.btn-outline {
     color: #d9534f;
+}
+.btn-primary.btn-danger
+{
+    display: inline;
 }
 
 .btn-primary.btn-outline:hover,
