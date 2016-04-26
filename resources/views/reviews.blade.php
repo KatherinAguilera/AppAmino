@@ -1,10 +1,10 @@
 @extends('layouts.principal')
 	@section('content')
-				<div class="review-content">
+		<div class="review-content">
 			<div class="top-header span_top">
 				<div class="logo">
-					<a href="index.html"><img src="images/logo.png" alt="" /></a>
-					<p>Movie Theater</p>
+					<a href="index.html"><img src="images/logamino.png" alt="" /></a>
+					<p>Peliculas</p>
 				</div>
 				<div class="search v-search">
 					<form>
@@ -53,7 +53,7 @@
 
 					<div class="clearfix"></div>
 			</div>
-			</div>
+		</div>
 		<div class="review-slider">
 			 <ul id="flexiselDemo1">
 				<li><img src="images/r1.jpg" alt=""/></li>

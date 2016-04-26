@@ -11,7 +11,7 @@
 				<div class="clearfix"></div>
 			</div>
 			<div class="header-info">
-				<h1>BIG HERO 6</h1>
+				<h1>Ingresa con tu cuenta</h1>
 				{!!Form::open(['route'=>'log.store', 'method'=>'POST'])!!}
 					<div class="form-group">
 						{!!Form::label('correo','Correo:')!!}	
