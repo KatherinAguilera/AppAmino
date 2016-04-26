@@ -23,6 +23,7 @@ class GeneroController extends Controller
      */
     public function index(Request $request)
     {
+        //Creacion de Generos Pelicula por ajax
         if ($request->ajax()) {
             $genres = Genre::all();
             return response()->json($genres);
