@@ -3,9 +3,9 @@
 	@section('content')
 	<table class="table">
 		<thead>
-			<th>Nombre</th>
-			<th>Correo</th>
-			<th>Operacion</th>
+			<th>Nombre Usuario</th>
+			<th>Correo Usuario</th>
+			<th>Modificar Datos</th>
 		</thead>
 		@foreach($users as $user)
 			<tbody>

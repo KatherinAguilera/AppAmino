@@ -7,7 +7,7 @@
 		<table class="table">
 			<thead>
 				<th>Nombre</th>
-				<th>Operaciones</th>
+				<th>Modificar o Eliminar Datos</th>
 			</thead>
 			
 			<tbody id="datos"></tbody>

@@ -29,7 +29,9 @@
 					 <textarea placeholder="Mensaje"></textarea>
 					 <input type="submit" value="ENVIAR"/>
 				 </div>
-				 <div class="clearfix"></div>
+				 <div class="clearfix">
+				 	
+				 </div>
 			 </form>
 	     </div>
 </div>

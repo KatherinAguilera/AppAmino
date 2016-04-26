@@ -23,19 +23,10 @@
 				</ul>
 			</div>
 		<div class="main">
-		
-		@yield('content')
-		
-	<div class="footer">
-		<h6></h6>
-		<p class="claim"></p>
-		<div class="">
-			<p></p>
-		</div>
-	</div>	
+		  @yield('content')
+	   </div>
 	</div>
-	</div>
-			<script type="text/javascript">
+ <script type="text/javascript">
 		$(window).load(function() {
 			
 		  $("#flexiselDemo1").flexisel({
@@ -61,7 +52,7 @@
 				}
 			});
 			});
-		</script>
+ </script>
 		<script type="text/javascript" src="js/jquery.flexisel.js"></script>
 	<div class="clearfix"></div>
 </body>
