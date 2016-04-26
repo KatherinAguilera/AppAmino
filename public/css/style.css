@@ -353,6 +353,7 @@ i.contact1 {
 	width: 18%;
 	float: right;
 	border: 1px solid #f0f0f0;
+	background: #fff;
 }
 .search input[type="text"] {
 	outline: none;
@@ -669,7 +670,7 @@ p.claim {
 	background:#fff;
 }
 .reviews-section {
-	background: #fff;
+	background: #FBEEDD;
 	padding:3em;
 	border-top:1px solid #000;
 }
@@ -682,6 +683,7 @@ h3.head {
 	float:left;
 	width:24%;
 	margin-right:3%;
+
 }
 .movie-pic img {
 	width: 100%;
@@ -819,8 +821,9 @@ a.b-home:hover{
 }
 /*--contact--*/
 .main-contact{
+	background: #FBEEDD;
 	padding:4em 5em;
-	  border-top: 1px solid #000;
+	border-top: 1px solid #000;
 }
 .main-contact p{
 	color: #000;
@@ -841,7 +844,8 @@ a.b-home:hover{
 .main-contact form input[type="text"],.main-contact form textarea{
 	width: 100%;
 	padding: 10px 14px;
-	border: 3px solid #000;
+	border: 1px solid #000;
+	border-radius: 1em;
 	font-size: 1.2em;
 	margin-bottom:1.5em;
 	color: #000;
@@ -851,16 +855,17 @@ a.b-home:hover{
 .main-contact form textarea {
 	resize:none;
 	height:201px;
-	border-radius: 0;
+	border-radius: 1em;
 }
 .main-contact form input[type="submit"] {
 	font-size: 1.35em;
 	font-weight:400;
 	color: #fff;
 	outline: none;
-	border: 3px solid #000;
+	border: 1px solid #000;
+	border-radius: 1em;
 	padding: 0.5em 3em;
-	background:#000;
+	background:#FF851B;
 	margin-top: 0em;
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -869,7 +874,7 @@ a.b-home:hover{
 	-ms-transition:0.5s all;
 }
 .main-contact form input[type="submit"]:hover{
-	background:#fff;
+	background:#3DC182;
 	color:#000;
 }
 .contact_info {

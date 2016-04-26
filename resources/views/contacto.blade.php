@@ -3,8 +3,8 @@
 		<div class="contact-content">
 			<div class="top-header span_top">
 				<div class="logo">
-					<a href="index.html"><img src="images/logo.png" alt="" /></a>
-					<p>Movie Theater</p>
+					<a href="index.html"><img src="images/logamino.png" alt="" /></a>
+					<p>Amino Cinema</p>
 				</div>
 				<div class="search v-search">
 					<form>
@@ -16,18 +16,18 @@
 			</div>
 			<!---contact-->
 <div class="main-contact">
-		 <h3 class="head">CONTACT</h3>
-		 <p>WE'RE ALWAYS HERE TO HELP YOU</p>
+		 <h3 class="head">CONTACTANOS</h3>
+		 <p>Te ayudaremos!</p>
 		 <div class="contact-form">
 			 <form>
 				 <div class="col-md-6 contact-left">
-					  <input type="text" placeholder="Name" required/>
-					  <input type="text" placeholder="E-mail" required/>
-					  <input type="text" placeholder="Phone" required/>
+					  <input type="text" placeholder="Nombre" required/>
+					  <input type="text" placeholder="Correo" required/>
+					  <input type="text" placeholder="Telefono" required/>
 				  </div>
 				  <div class="col-md-6 contact-right">
-					 <textarea placeholder="Message"></textarea>
-					 <input type="submit" value="SEND"/>
+					 <textarea placeholder="Mensaje"></textarea>
+					 <input type="submit" value="ENVIAR"/>
 				 </div>
 				 <div class="clearfix"></div>
 			 </form>

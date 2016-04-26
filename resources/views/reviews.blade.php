@@ -4,7 +4,7 @@
 			<div class="top-header span_top">
 				<div class="logo">
 					<a href="index.html"><img src="images/logamino.png" alt="" /></a>
-					<p>Peliculas</p>
+					<p>Amino Cinema</p>
 				</div>
 				<div class="search v-search">
 					<form>
@@ -15,19 +15,19 @@
 				<div class="clearfix"></div>
 			</div>
 			<div class="reviews-section">
-				<h3 class="head">Movie Reviews</h3>
+				<h3 class="head">Peliculas en Cartelera</h3>
 					<div class="col-md-9 reviews-grids">
 						<div class="review">
 							<div class="movie-pic">
 								<a href="single.html"><img src="images/r4.jpg" alt="" /></a>
 							</div>
-							<div class="review-info">
-								<a class="span" href="single.html">Lorem  <i>Movie Review</i></a>
-								<p class="info">CAST:&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Will Smith, Margot Robbie, Adrian Martinez, Rodrigo Santoro, BD Wong, Robert Taylor</p>
-								<p class="info">DIRECTION: &nbsp;&nbsp;&nbsp;&nbsp;Glenn Ficarra, John Requa</p>
-								<p class="info">GENRE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crime</p>
-								<p class="info">DURATION:&nbsp;&nbsp;&nbsp; &nbsp; 1 hour 45 minutes</p>
-							</div>
+						<div class="review-info">
+							<a class="span" href="single.html">L'<i>AMOUR FOU</i></a>
+							<p class="info">CAST:  Pierre Thoretton, Margot Robbie, Adrian Martinez,  Rodrigo Santoro,  BD Wong, Robert Taylor</p>
+							<p class="info">DIRECTION: &nbsp;&nbsp;&nbsp;&nbsp;Glenn Ficarra, John Requa</p>
+							<p class="info">GENRE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crime</p>
+							<p class="info">DURATION:&nbsp;&nbsp;&nbsp; &nbsp; 1 hour 45 minutes</p>
+						</div>
 
 							<div class="clearfix"></div>
 						</div>
@@ -40,10 +40,10 @@
 							<div class="review-info">
 								<a class="span" href="single.html">Lorem  <i>Movie Review</i></a>
 								
-								<p class="info">CAST:&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Will Smith, Margot Robbie, Adrian Martinez, Rodrigo Santoro, BD Wong, Robert Taylor</p>
-								<p class="info">DIRECTION: &nbsp;&nbsp;&nbsp;&nbsp;Glenn Ficarra, John Requa</p>
-								<p class="info">GENRE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crime</p>
-								<p class="info">DURATION:&nbsp;&nbsp;&nbsp; &nbsp; 1 hour 45 minutes</p>
+								<p class="info">CAST:&nbsp;Dan Lin, Roy Lee, Phil Lord, Christopher Miller</p>
+								<p class="info">DIRECTION: &nbsp;&nbsp;Phil LordChristopher Miller</p>
+								<p class="info">GENRE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Animacion Comedia</p>
+								<p class="info">DURATION:&nbsp;&nbsp;&nbsp; &nbsp; 1 hour 30 minutes</p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
