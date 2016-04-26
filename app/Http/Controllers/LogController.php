@@ -40,6 +40,7 @@ class LogController extends Controller
      */
     public function store(LoginRequest $request)
     {
+        //Validacion Datos
         if(Auth::attempt(['email'=>$request['email'], 'password'=>$request['password']])){
             return Redirect::to('admin');
         }
