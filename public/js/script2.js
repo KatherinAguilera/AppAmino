@@ -1,3 +1,4 @@
+//Funciones para Guardar Datos del Modulo Genero
 $(document).ready(function(){
 	Carga();
 });
