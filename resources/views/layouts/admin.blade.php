@@ -23,7 +23,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Admin Cine-Amino</a>
+                <a class="navbar-brand" href="{!!URL::to('/')!!}"><img src="images/AdminLogo.gif" alt="Amino-Cinema" height="150%" width="30%" /></a>
             </div>
            
 
@@ -33,7 +33,7 @@
                         {!!Auth::user()->name!!}<i class="fa fa-user fa-fw"></i>  <i class="fa fa-caret-down"></i>
                     </a>
                     <ul class="dropdown-menu dropdown-user">
-                        <li><a href="{!!URL::to('/logout')!!}"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
+                        <li><a href="{!!URL::to('/logout')!!}"><i class="fa fa-sign-out fa-fw"></i> Cerrar Sesion</a>
                         </li>
                     </ul>
                 </li>
@@ -42,7 +42,7 @@
             <div class="navbar-default sidebar" role="navigation">
                 <div class="sidebar-nav navbar-collapse">
                     <ul class="nav" id="side-menu">
-                    @if(Auth::user()->id == 1)
+                    @if(Auth::user()->id == 1) 
                         <li>
                             <a href="#"><i class="fa fa-users fa-fw"></i> Usuario<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
@@ -71,7 +71,6 @@
                     </ul>
                 </div>
             </div>
-
      </nav>
 
         <div id="page-wrapper">

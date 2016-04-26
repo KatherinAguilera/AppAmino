@@ -5,7 +5,7 @@
  */
 
 body {
-    background-color: #C2E0E8;
+    background-color: #F8F8F8;
 }
 
 #wrapper {
@@ -28,15 +28,18 @@ body {
 }
 .navbar
 {
-    background: #C2E0E8;
+    background: #3DC182;
+ 
 }
 
 .navbar-top-links {
     margin-right: 0;
+ 
 }
 
 .navbar-top-links li {
     display: inline-block;
+
 }
 
 .navbar-top-links li:last-child {
@@ -46,6 +49,7 @@ body {
 .navbar-top-links li a {
     padding: 15px;
     min-height: 50px;
+     color:#00000f;
 }
 
 .navbar-top-links .dropdown-menu li {
@@ -154,6 +158,10 @@ body {
 .btn-primary
 {
     background: #FF851B;
+}
+.btn-primary:hover
+{
+    background: #3DC182;
 }
 .btn-primary.btn-outline {
     color: #428bca;
