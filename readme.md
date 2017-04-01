@@ -1,4 +1,4 @@
-# Instalación AppAmino
+# Instalación 
 
 + Después de descargar o clonar el proyecto 
 
